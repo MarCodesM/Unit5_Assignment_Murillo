@@ -1,0 +1,10 @@
+____________________________________
+	DR_T Restaurant Receipt
+
+	Amout  Item         Cost
+	1)  Catfish          9
+
+      Food: $9
+       Tip: $3
+Total Bill: $12
+____________________________________
